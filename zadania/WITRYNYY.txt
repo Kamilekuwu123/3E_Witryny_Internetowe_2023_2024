@@ -1,0 +1,76 @@
+Zadanie 1 KARTA PRACY
+LP   1     APPLET        OBJECT
+     2     BASEFONT      CSS
+     3     CENTER        CSS
+     4     DIR           UL
+     5     FONT          CSS
+     6     ISINEDEX      INPUT
+     7     MENU          UL
+     8     S             CSS
+     9     STRIKE        CSS
+     10    U             CSS
+
+ZADANIE 2 KARTA PRACY 
+1- Wersja 5.0 upraszcza zapis znaczników
+2- Wprowadzono moduł API i kompleksową obsługę multimediów
+3- Rozbudowano formularze 
+
+Zadanie 3 KARTA PRACY
+
+Zadanie 4
+HTML 4.0 - https://www.w3.org/TR/html4/
+HTML 4.01 -https://www.w3.org/TR/html401/
+HTML 5.0 - https://dev.w3.org/html5/spec-LC/
+Zadanie 1
+Witryna internetowa - Cyfrowa platforma, która umożliwia prezentację informacji, 
+treści, produktów lub usług w przestrzeni online. Stanowi ona interaktywną bramę, 
+poprzez którą użytkownicy mogą uzyskać dostęp do treści, komunikować się oraz wykonywać 
+różnorodne czynności
+
+Portal internetowy - Witryna internetowa zawierająca usługi stanowiące „bramę” do Internetu . 
+Serwis informacyjny zazwyczaj poszerzony jest o różnorodne funkcje internetowe. 
+Portale często oferują darmowe usługi, np. pocztę elektroniczną, czy hosting. PRZYKŁAD : onet.pl
+Sklep internetowy - Oferują możliwość dokonywania zakupów poprzez internet PRZYKŁAD: x-kom.pl
+
+Blog tekstowy - Strona na której autor może podzielić się swoim doświadczeniem, przeżyciami w sposób
+tekstowy
+
+Wideoblog - Rodzaj bloga internetowego, który zamiast postów tekstowych posługuje się materiałem 
+filmowym
+
+Zadanie 2
+Portal internetowy ponieważ zajmuje się określoną tematyką 
+
+
+
+Zadanie 3
+1.Prawda
+2.Fałsz
+3.Prawda
+4.Prawda 
+5.Fałsz
+
+Zadanie 4
+
+rok 1995 HTML 2.0 pierwszy raz został wydany HTML
+rok 1996 HTML 3.2 zwiększona ilość atrybutów w HTML
+rok 1997 HTML 4.0 obsługa wielu skryptów 
+rok 2000 HTML 5.0 dodanie znaczników multimedialnych
+
+
+Podsumowanie
+Zadanie 1
+A
+Zadanie 2
+A
+Zadanie 3
+C
+Zadanie 4
+C
+Zadanie 5
+
+EGZAMIN 
+HTML-Język znaczników który jest podstawowym elementem każdej strony internetowej  Tworzenie wszystkich składni do stron inetrnetowych
+
+MySQL-System zarządzania relacyjnymi bazami danych                                  Tworzy relacje i bazy danych potrzebne do szybkiego wyszukiwania na stronie 
+ CSS-Język stylów który służy do okteślania wyglądu strony internetowej            Pomaga utworzyć wygląd strony
