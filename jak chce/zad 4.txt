@@ -1,0 +1,3 @@
+zad 4
+w języku HTML 5 usunięto stare znaczniki <basefront> <big> <center> <strike> <frame> <frameset>
+w języku HTML 4 występują zbaczniki zmienione w HTML 'u 5
